@@ -1,6 +1,6 @@
 # 本软件为开源软件,不要在任何地方购买!
 # 关注公众号请搜索:开源阅读软件,有福利噢
-# blog http://www.hostfans.cn
+# website https://www.webreadingtool.com
 # 在线书源库
 ## http://ku.iszoc.com
 ## http://ku.mumuceo.com
